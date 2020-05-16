@@ -34,15 +34,23 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? 
+<b>It reinforce structual using tags to reinforce meaning of the content within the tags. It gives meaning to the web page rather than just presentation.</b>
 
 2. What are the 4 areas of the box model?
+<b>Margin: Space between the border and everything else on the page.</b>
+<b>Border: A border that can be style around the padding and content of a box.</b>
+<b>Padding: Space between content and border.</b>
+<b>Content: Space within the model in which our text and image are rendered.</b>
 
 3. While using flexbox, what axis does the following property work on: ```align-items: center```?
+<b>The Cross-Axis</b>
 
 4. Explain why git is valuable to a team of developers.
+<b>It lets team of developers work on a project simultaneously, saves all the changes made throughout the history of that file without adding any external files.</b>
 
 5. Define mobile-first design in your own words.
+<b>Is the minimum width with practice of designing or developing an online experience for mobile before designing for desktop web.</b>
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
