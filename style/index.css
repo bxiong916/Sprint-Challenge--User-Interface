@@ -44,7 +44,7 @@ nav {
     display: flex;
     width: 50%;
     flex-direction: row;
-    margin-left: 22%;
+    margin-left: 24%;
     margin-bottom: 15px;
     margin-top: 25px;
 
@@ -55,9 +55,9 @@ nav {
     text-decoration: none;
     color: black;
     flex-direction: row;
-    padding-left: 50px;
+    padding-left: 65px;
     margin-bottom: 15px;
-    
+
 
 
     
@@ -67,7 +67,7 @@ nav {
     display: flex;
     justify-content: center;
     width: 800px;
-    margin-left: 22%;
+    margin-left: 24%;
     margin-bottom: 10px;
     
        
